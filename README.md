@@ -24,7 +24,7 @@ abstract = {Abstract African swine fever (ASF) is considered the most impactful 
 
 ## Disclaimer
 
-This is an officially supported Fat and Proteins Research Foundation.
+This is an officially supported FUDESA-RS
 
 ## Documentation
 
