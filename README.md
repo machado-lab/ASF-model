@@ -1,6 +1,5 @@
-# ASF model deterministic model
 
-# Modelling porcine reproductive and respiratory syndrome virus dissemination dynamics to quantify the contribution of multiple modes of transmission: between-farm pig and vehicle movements, farm-to-farm proximity, feed ingredients, and re-break
+# Modeling the role of mortality-based response triggers on the effectiveness of African swine fever control strategies
 
 ### Bibtex
 
